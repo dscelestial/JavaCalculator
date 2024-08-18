@@ -108,7 +108,6 @@ public class Calculator implements ActionListener{
     }
     public static void main(String[] args){
         Calculator cal = new Calculator();
-
     }
 
     @Override
